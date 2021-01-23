@@ -10,7 +10,7 @@
 
 `pip install requests`
 
-`git clone https://github.com/MrProCatYT/Uti-lite.git`
+`git clone https://github.com/itachicoders/Uti-lite.git`
 
 # Запуск
 
